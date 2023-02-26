@@ -1,2 +1,3 @@
 # wgetMicroM
-Bluk download https://archive.org/details/micromania-segunda-epoca?
+Bulk download https://archive.org/details/micromania-segunda-epoca?
+Windows Script
