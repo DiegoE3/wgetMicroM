@@ -7,7 +7,6 @@ https://archive.org/details/micromania-segunda-epoca?
 Instrucciones:
 
 - Descargar a una carpeta el ejecutable "descargar micromania2a.bat" y el "wget.exe"
-- 
 - Ejecutar "descargar micromania2a.bat". Los PDFs descargardos aparecerán en la misma carpeta
 
 
