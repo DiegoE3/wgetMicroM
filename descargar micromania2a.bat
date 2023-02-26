@@ -35,8 +35,8 @@ if not exist "Indice-Micromania-SE-1-73.pdf" (
 Rem https://ss64.com/nt/for.html
 Rem FOR /L %%parameter IN (start,step,end) DO command
 Rem %%x variable para la primera cifra, %%y variable para la segunda cifra
-Rem el primer for recorre la primera cifra, hay 80 números así que de 0 a 7
-Rem el segundo for recorre la segunda cifra, de 0 a 9
+Rem el primer for recorre la primera cifra de 0 a 7
+Rem el segundo for recorre la segunda cifra de 0 a 9
 Rem Números 30, 31, 80 y el índice se descargan fuera de los for
 
 Rem https://archive.org/download/micromania-segunda-epocha-01/Micromania_Segunda_Epoca_01.pdf
