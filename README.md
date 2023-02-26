@@ -13,9 +13,6 @@ Instrucciones:
 
 <br>
 WGET
-
 (GNU Wget is distributed under the GNU General Public License.)
-
 https://www.gnu.org/software/wget/
-
 Binarios de windows: https://eternallybored.org/misc/wget/
